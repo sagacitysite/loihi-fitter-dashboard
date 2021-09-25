@@ -1,0 +1,10 @@
+#main-title { font-size: 1.8rem; margin: 1rem 0; }
+
+#fitter input { max-width: 80px; }
+#fitter textarea { width: 100%; min-height: 100px; margin-bottom: 1rem; white-space: pre; }
+#fitter button.btn { margin-right: 15px; }
+#fitter h3 { font-size: 1.25rem; margin-bottom: 1rem; }
+.slider-label, .slider-value { text-align: center; }
+
+#sliders .row { margin-bottom: 0.5rem; }
+
